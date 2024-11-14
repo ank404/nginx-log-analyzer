@@ -26,5 +26,3 @@ This project provides a Bash script to analyze Nginx access logs. The script ext
 - Top 5 most requested paths
 - Top 5 response status codes
 - Top 5 user agents
-
-Project URL: https://roadmap.sh/projects/nginx-log-analyser
